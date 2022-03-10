@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactappprac/static/css/main.e58221c4.css",
+    "main.js": "/reactappprac/static/js/main.0e532195.js",
+    "static/media/webdev.png": "/reactappprac/static/media/webdev.957fe7792ac33bf233cb.png",
+    "static/media/home.png": "/reactappprac/static/media/home.92cd9fada819e27f0f29.png",
+    "static/media/ecommerce.png": "/reactappprac/static/media/ecommerce.4707ec8754b6129aa94f.png",
+    "static/media/appdevelopment.png": "/reactappprac/static/media/appdevelopment.cf213d60802a22831418.png",
+    "static/media/socialmedia.png": "/reactappprac/static/media/socialmedia.5f60f91a6c6ef5497024.png",
+    "static/media/about.png": "/reactappprac/static/media/about.6fe1de5a9d020048af2c.png",
+    "static/media/sad.png": "/reactappprac/static/media/sad.b5366561b292308b3df8.png",
+    "static/media/branding.png": "/reactappprac/static/media/branding.acd20542d1b991a06422.png",
+    "index.html": "/reactappprac/index.html",
+    "main.e58221c4.css.map": "/reactappprac/static/css/main.e58221c4.css.map",
+    "main.0e532195.js.map": "/reactappprac/static/js/main.0e532195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58221c4.css",
+    "static/js/main.0e532195.js"
+  ]
+}
